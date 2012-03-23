@@ -1,0 +1,15 @@
+{
+	"name": "web2py dev mode for Chrome",
+	"version": "1.0",
+	"description": "Automatically opens local web2py error tickets in iframe",
+	"permissions": [
+		"tabs", "http://127.0.0.1:8000/*"
+	],
+	"content_scripts": [
+		{
+		"matches":  ["http://127.0.0.1/*"],
+		"js": ["contentscript.js"],
+		"run_at": "document_idle"
+		}
+	]
+}
