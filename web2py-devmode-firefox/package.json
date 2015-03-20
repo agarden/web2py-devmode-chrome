@@ -1,0 +1,11 @@
+{
+  "name": "web2py-devmode-chrome",
+  "title": "Quickly view Web2py errors",
+  "icon": "data/w2p-32.png",
+  "icon64": "data/w2p-64.png",
+  "id": "jid1-9ETMDbr0sHa2WQ",
+  "description": "Easily view the reported Web2py error",
+  "author": "http://twitter.com/kirsn",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
