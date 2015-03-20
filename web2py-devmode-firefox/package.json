@@ -1,5 +1,5 @@
 {
-  "name": "web2py-devmode-chrome",
+  "name": "web2py-devmode-firefox",
   "title": "Quickly view Web2py errors",
   "icon": "data/w2p-32.png",
   "icon64": "data/w2p-64.png",
