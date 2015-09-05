@@ -1,6 +1,0 @@
-web2py has no development mode. Production or development, it logs all
-exceptions to its internal ticket system and to the user displays an
-error page with a link to the ticket. I got tired of clicking the ticket
-links and waiting for them to load, so I wrote this little Chrome
-extension that creates an iframe and opens them there for me. The result:
-much faster debugging during web2py development.
